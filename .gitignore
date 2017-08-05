@@ -1,0 +1,9 @@
+*Binaries/
+*Build/
+*Content/StarterContent
+*Intermediate/
+
+*.VC.db
+*.opendb
+*.VC.db-shm
+*.VC.db-wal
